@@ -126,7 +126,7 @@ PLATFORMS
 DEPENDENCIES
   activerecord
   pry
-  rails (>= 4.2)
+  rails
   rake
   rspec
   sqlite3
